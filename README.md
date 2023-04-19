@@ -1,5 +1,6 @@
 # Budgeting-backend
 Backend for Budgtr app. Provides crud operations for transactions.
+trello board [here](https://trello.com/b/xn5cTQKj/budgtr-be)
 ## Getting started
 1. clone this repo
 2. open is editor of your choice
